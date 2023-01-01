@@ -1,1 +1,1 @@
-# 7.-Data-Warehouse-Design-Setup-and-Reporting
+Data-Warehouse-Design-Setup-and-Reporting
